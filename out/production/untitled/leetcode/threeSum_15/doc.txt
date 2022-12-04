@@ -1,0 +1,12 @@
+threeSum
+
+List<Integer> ls để lưu dữ liệu mảng nhỏ.
+List<List<Integer>> list để lưu dữ liệu mảng to.
+Sử dụng for để lặp qua mảng để duyệt qua từng phần tử lấy dữ liệu.
+Theo đề 3 số cộng lại = 0. Nên để đúng theo điều kiện if (nums[i] + nums[j] + nums[k] == 0).
+Sử dụng ls = Arrays.asList(nums[i],nums[j],nums[k]) để cố định định dạng của mảng.
+Đưa các dữ liệu được lấy ra từ trong vòng for đưa vô list ls.
+Collections.sort(ls) để sắp xếp lại mảng nhỏ, để đưa các mảng theo một kiểu.
+if(!list.contains(ls)) để check dữ liệu đã tồn tại trong mảng hay chưa.
+Và sau cùng là đưa vô mảng list.
+
