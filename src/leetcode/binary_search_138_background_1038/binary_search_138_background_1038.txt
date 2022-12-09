@@ -1,0 +1,11 @@
+https://leetcode.com/explore/learn/card/binary-search/138/background/1038/
+
+function 1: Tự viết.
+Suy nghĩ tạo một cái ArrayList, sử dụng vòng lặp for duyệt qua dữ liệu rồi thêm dữ liệu vô mảng.
+Sử dụng indexOf để lấy ví trí của phần tử có giá trị bằng target.
+
+function 2: Test cái khác.
+
+Làm bài chưa tối ưu, và chưa sử dụng theo binary-search nên tham khảo thêm.
+function 3: Tham khảo trên mạng.
+function 4: Lời giải từ leetcode.
