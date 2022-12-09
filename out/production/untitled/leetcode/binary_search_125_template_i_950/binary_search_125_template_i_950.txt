@@ -1,0 +1,5 @@
+https://leetcode.com/explore/learn/card/binary-search/125/template-i/950/
+
+Sử dụng Math.pow để lũy thừa với tham số là 0.5 để tính căn của số.
+Math.pow trả về kiểu double, ép kiểu về int chuyển về kiểu số nguyên.
+
